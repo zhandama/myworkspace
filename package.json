@@ -2,7 +2,7 @@
   "name": "vue-steam",
   "version": "1.0.0",
   "description": "steam5173饰品交易",
-  "author": "fredlee <fred_lee123@163.com>",
+  "author": "tangxm <tangxm520@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
